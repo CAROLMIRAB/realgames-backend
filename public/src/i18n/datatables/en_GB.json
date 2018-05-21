@@ -1,0 +1,10 @@
+{
+    "applyLabel": "Accept",
+    "cancelLabel": "Cancel",
+    "fromLabel": "From",
+    "toLabel": "Hasta",
+    "customRangeLabel": "Rango Personalizado",
+    "daysOfWeek": "['Do', 'Lu', 'Ma', 'Mi', 'Ju', 'Vi', 'Sa']",
+    "monthNames": "['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'October', 'November', 'December']",
+    "firstDay": "1"
+}
